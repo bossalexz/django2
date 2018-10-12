@@ -1,2 +1,2 @@
-# odoo
-desarrollo con python odoo
+# django
+desarrollo con python django
